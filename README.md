@@ -1,4 +1,5 @@
 
+[![Build Status](https://benwho.visualstudio.com/Space%20Game/_apis/build/status/Benwho2.mslearn-tailspin-spacegame-web?branchName=master)](https://benwho.visualstudio.com/Space%20Game/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
